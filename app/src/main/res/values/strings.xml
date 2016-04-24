@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Haptik Chat</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="group_info">Tap here for group info</string>
+    <string name="group_members">Group Members</string>
+</resources>
